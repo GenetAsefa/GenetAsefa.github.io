@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Genet's Homepage'"
+title                    : "Genet's Homepage"
 title_separator          : "-"
-name                     : &name "Genet Asefa Gesese"
+name                     : &name "Genet Asefa Gesese / ገነት አሰፋ ገሠሠ"
 description              : &description "personal description"
 url                      : https://GenetAsefa.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   location         : "Karlsruhe, Germany"
   employer         : "FIZ Karlsruhe"
   uri              : "https://www.fiz-karlsruhe.de/de/bereiche/lebenslauf-und-publikationen-dr-ing-genet-asefa-gesese"
-  email            : "genet-asefa.geseseATfiz-karlsruhe.de" 
+  email            : "gasefa24ATgmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
