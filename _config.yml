@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Genet's Homepage"
+title                    : "Genet Asefa Gesese / ገነት አሰፋ ገሠሠ"
 title_separator          : "-"
-name                     : &name "Genet Asefa Gesese / ገነት አሰፋ ገሠሠ"
+name                     : &name "Genet Asefa Gesese"
 description              : &description "personal description"
 url                      : https://GenetAsefa.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
