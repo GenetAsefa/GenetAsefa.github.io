@@ -11,6 +11,7 @@ I am currently the Head of the Machine Learning Department under the ISE divisio
 
 # Research Interests
 
-- 🌐 **Natural Language Processing (NLP)**
-- 🤖 **Machine Learning (ML)**
-- 🧠 **Knowledge Graphs (KG)**
+- **Machine Learning (ML)**
+- **Knowledge Graphs (KG)**
+- **Representation Learning**
+- **Natural Language Processing (NLP)**
