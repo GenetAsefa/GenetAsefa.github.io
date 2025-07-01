@@ -1,0 +1,31 @@
+{% include base_path %}
+
+<article class="travel-entry" style="margin-bottom: 2em; border-bottom: 1px solid #e0e0e0; padding-bottom: 1em;">
+
+  {% if post.header.teaser %}
+    <a href="{{ base_path }}{{ post.url }}">
+      <img src="{{ base_path }}{{ post.header.teaser }}" alt="Photo from {{ post.title }}" style="width:100%; max-width:600px; height:auto; margin-bottom:1em;" />
+    </a>
+  {% endif %}
+
+  <h2>
+    <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+  </h2>
+
+  {% if post.date %}
+    <p><strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
+  {% endif %}
+
+  {% if post.location %}
+    <p><strong>Location:</strong> {{ post.location }}</p>
+  {% endif %}
+
+  {% if post.excerpt %}
+    <div class="excerpt">
+      {{ post.excerpt | markdownify }}
+    </div>
+  {% else %}
+    <p>{{ post.content | markdownify | truncatewords: 50 }}</p>
+  {% endif %}
+
+</article>
