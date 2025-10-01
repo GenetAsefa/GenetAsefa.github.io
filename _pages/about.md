@@ -22,6 +22,6 @@ Key applications within the Machine Learning department of FIZ ISE are the popul
 
 One particular challenge is the frequently occurring lack of well suited or sufficient training data which motivate further research in few-shot or zero-shot learning scenarios, in particular with the help of large language models. 
 
-There department is part of three big projects, namely, [NFDI4DS](https://www.nfdi4datascience.de/), [Wiedergutmachung](https://www.fiz-karlsruhe.de/de/projekte/wiedergutmachung), and [DitraRe](https://www.ditrare.de/en).   
+The department is involved in three major projects, namely, [NFDI4DS](https://www.nfdi4datascience.de/), [Wiedergutmachung](https://www.fiz-karlsruhe.de/de/projekte/wiedergutmachung), and [DitraRe](https://www.ditrare.de/en).   
 
 More - [here](https://www.fiz-karlsruhe.de/en/bereiche/information-service-engineering)
